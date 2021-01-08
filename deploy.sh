@@ -1,2 +1,3 @@
+hi am from master 
 hello updating ......
 this file contains deployement
